@@ -1,2 +1,3 @@
-# rino
-My collection of useful reusable javascript components.
+# Rino
+
+Rino is my personal library for reusable javascript components.
